@@ -1,0 +1,30 @@
+# Maven
+target/
+*.jar
+*.war
+*.class
+
+# IntelliJ
+.idea/
+*.iml
+**/out/
+.kotlin
+
+# OS files
+.DS_Store
+
+numeronym_classes/
+External Libraries/
+Scratches and Consoles/
+exports/
+
+# Learning material
+*.pdf
+*.txt
+
+# VS Code
+.vscode/
+
+# notebooks
+/.quarto/
+**/*.quarto_ipynb

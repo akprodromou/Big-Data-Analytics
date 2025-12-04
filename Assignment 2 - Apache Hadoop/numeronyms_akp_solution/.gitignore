@@ -1,0 +1,18 @@
+# Maven
+target/
+*.jar
+*.war
+*.class
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# OS files
+.DS_Store
+
+numeronym_classes/
+External Libraries/
+Scratches and Consoles/
+exports/
